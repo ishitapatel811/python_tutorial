@@ -5,7 +5,7 @@
 
 # Variable = it is a name given to a memory location in a program
 # Data Type = Integer, String, Float, Boolean, None
-"""name = "radhe"
+name = "radhe"
 age = 20
 weight = 42.5
 old = False
@@ -15,7 +15,7 @@ print(type(name))
 print(type(age))
 print(type(weight))
 print(type(old))
-print(type(a))   """
+print(type(a))   
 
 
 # Keywords = are reserved words in Python
