@@ -153,7 +153,7 @@ else:
 # Exercise-2 : Faulty calculator
 # design a calculator which will correctly solve all problems except
 # 45*3=555 , 56+9=77 , 56/6=4
-"""num1 = int(input("enter 1st number:"))
+num1 = int(input("enter 1st number:"))
 num2 = int(input("enter 2nd number:"))
 num3 = input("what you want?=>" + " + , - , * , / , % ")
 
@@ -179,4 +179,4 @@ elif num3 == '%':
     percent = num1 % num2
     print(percent)
 else:
-    print("enter right choice")  """
+    print("enter right choice") 
